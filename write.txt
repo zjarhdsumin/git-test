@@ -5,3 +5,4 @@ Write feat
 8+8 = 16
 16+16 = 24
 24+24 = 48
+write add
